@@ -1,0 +1,85 @@
+ul, li {
+	text-align: center;
+}
+
+p {
+	display: inherit;
+	margin: inherit;
+}
+
+.title-slide {
+	font-family: 'faustina', serif;
+	color: white;
+	margin-bottom: 26%;
+}
+
+#title1 {
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 1;
+}
+
+#title2 {
+	font-weight: 600;
+	font-size: 40px;
+	letter-spacing: 2px;
+}
+
+.title3 {
+	font-weight: 600;
+	font-size: 40px;
+	font-style: italic;
+}
+
+.button-left {
+	padding: 2rem;
+	left: 35px;
+}
+
+.button-right {
+	left: 1260px;
+}
+
+.text-slide {
+	background-color: transparent;
+}
+
+.blue-button {
+	display: inherit;
+	padding: 1.5%;
+	width: 220px;
+	margin-left: 75%;
+	margin-bottom: 3%;
+	font-size: 14px;
+	font-family: 'faustina', serif;
+}
+
+.descript-slide {
+	font-family: 'faustina', serif;
+	font-size: 26px;
+	color: white;
+	text-align: left;
+	margin-left: 15%;
+	margin-bottom: -5%;
+}
+
+.img-slide {
+	width: 93%;
+}
+
+.menu-bar {
+	font-family: 'faustina', serif;
+	color: black;
+	font-weight: 400;
+	font-size: 0.75rem;
+	height: 46px;
+	display: block;
+	background-color: transparent;
+	border-color: gray;
+}
+
+.menu-peugeot {
+	margin-top: -0.2%;
+	margin-left: 3.5%;
+	margin-right: 3.5%;
+}
