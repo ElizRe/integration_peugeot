@@ -1,0 +1,94 @@
+footer {
+	color: #3c3947 !important;
+	background-color: #f5f5f5;
+}
+
+
+.footerlist {
+	margin: 10px;
+}
+
+.footerlist li a {
+	color: #3c3947;
+	font-size: 0.8em;
+}
+
+.social.vertical.menu li a {
+	font-size: 1.2em !important;
+}
+
+.linkSocial li {
+	background-color: white;
+	width: 65px;
+	height: 65px;
+	margin: 3px;
+}
+
+.footermenu ul li:first-child {
+	border-bottom: 1px solid rgb(204, 204, 204);
+	font-size: 1.3em;
+
+}
+
+ul li a img {
+	border: 1px solid black;
+	width: 30px !important;
+}
+
+a {
+	color: #3c3947;
+}
+
+a:hover {
+	color: #1468a0;
+}
+
+.footerButton {
+	background-color: white;
+	/*margin-left: 15px;
+	margin-right: 15px;*/
+	margin-top: 10px;
+	margin-bottom: 15px;
+	
+
+}
+
+.footerButton:first-child {
+	background-color: #3c3947;
+	color: white;
+	margin-left: 10px;
+}
+
+.footerButton p {
+	margin: 5%;
+	font-size: 0.9em;
+	text-align: center;
+}
+
+.vertical.menu.accordion-menu {
+	background-color: white;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+.footerEnd {
+	background-color: white;
+}
+
+
+
+.mentionsLegales {
+	font-size: 0.8em;
+	color: grey;
+}
+
+.menu.align-center li a {
+	font-size: 0.8em;
+}
+
+.centerLink {
+	text-align: center;
+}
+
